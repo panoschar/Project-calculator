@@ -3,6 +3,10 @@
     padding: 0;
 }
 
+body {
+    background-color: rgb(80, 77, 77);
+}
+
 .container{
     height: 100vh;
     display: flex;
