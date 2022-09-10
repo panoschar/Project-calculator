@@ -4,7 +4,7 @@
 }
 
 body {
-  background-color: rgb(80, 77, 77);
+  background-color: rgb(129, 129, 129);
 }
 
 .container {
@@ -19,6 +19,7 @@ body {
   grid-template-columns: repeat(4, 65px);
   border-radius: 30px;
   background-color: rgba(12, 12, 12, 0.527);
+  padding: 5px;
 }
 
 input {
